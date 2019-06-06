@@ -26,12 +26,15 @@ header img{
 .content{
 	max-width: 400px;
 	margin: 0 auto;
-	background-color: azure;
+	background-color: white;
 	padding: 0 20px;
 }
 
 img.big-image{
 	max-width: 100%;
+	width: 400px;
+	height: 400px;
+	border-radius: 75px;
 }
 
 
